@@ -1,4 +1,4 @@
-# Drive Locker
+# Drive Locker [![Build status](https://ci.appveyor.com/api/projects/status/mvomhxj2s5pdphh7?svg=true)](https://ci.appveyor.com/project/Metalnem/drive-locker) [![license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://raw.githubusercontent.com/metalnem/drive-locker/master/LICENSE)
 Console application that enables/disables eject button on your optical drive.
 
 ## Usage
